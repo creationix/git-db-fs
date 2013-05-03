@@ -1,7 +1,8 @@
 {
-  "name": "git-fs-html5",
+  "name": "git-db-fs",
+  "description": "A git db implementation that builds on top of git-fs instance.",
   "version": "0.0.0",
-  "main": "fs.js",
+  "main": "db.js",
   "author": "Tim Caswell <tim@creationix.com>",
   "license": "MIT"
 }
